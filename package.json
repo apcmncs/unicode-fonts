@@ -1,6 +1,6 @@
 {
 	"name": "@apcmncs/unicode-fonts",
-	"version": "1.0.0",
+	"version": "0.0.1",
 	"description": "A lightweight JavaScript library for transforming text into Unicode-based typographic variants, enabling stylized text output for various scripts and styles.",
 	"main": "dist/index.js",
 	"module": "dist/index.mjs",
@@ -12,6 +12,10 @@
 	"keywords": [],
 	"author": "apcmncs",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/apcmncs/unicode-fonts"
+	},
 	"devDependencies": {
 		"tsup": "^8.5.0",
 		"typescript": "^5.8.3"
